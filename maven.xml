@@ -10,10 +10,10 @@
        <run>
             <!--include : Used to Run the script  -->
            
-            <include name="Smoke"/>
+            <include name="Regression"/>
             
             <!-- exclude : Used to neglect  -->
-            <exclude name="Regression"/>
+            <exclude name="Smoke"/>
             <exclude name="FullSuite"/>
              
        </run>
