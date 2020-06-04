@@ -1,0 +1,7 @@
+Smoke_Test\home_page_with_all_links.class
+Base\all_xpaths.class
+Regression\Click_contactus_passData.class
+FullSuite\Keyutech.class
+Base\Basetest.class
+Smoke_Test\Click_aboutus_nav_home.class
+Smoke_Test\Click_Email_Nav_Home.class
