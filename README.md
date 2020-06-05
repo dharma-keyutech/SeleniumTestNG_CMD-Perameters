@@ -3,4 +3,4 @@
 
 Use Below command to execute :-
 
-   mvn install -DBrowsername=Chrome
+   clean install -DBrowsername=Chrome
